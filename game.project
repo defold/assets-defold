@@ -1,0 +1,9 @@
+[project]
+title = Defold-Logos
+
+[library]
+include_dirs = assets-defold
+
+[bootstrap]
+main_collection = /example/example.collectionc
+

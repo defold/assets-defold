@@ -1,0 +1,6 @@
+images {
+  image: "/assets-defold/made_with_defold/logo-hor-outline-bright-320.png"
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
