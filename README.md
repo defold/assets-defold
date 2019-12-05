@@ -2,6 +2,8 @@
 
 This project contains the Defold logos in various sizes, for use on splash screens or as other kinds of in-game promotions for the engine. The project also contains an example of a few ways the Defold logo could be used.
 
+The project can be used as a project dependency. Add `https://github.com/defold/assets-defold/archive/master.zip` to your list of project dependencies in `game.project`.
+
 ## Logo variants
 * The logo has three variants (only logo, logo+"Defold", logo+"Made with Defold")
 * Each variant has four sizes (64, 128, 160, 320 width) plus one original high res size.
