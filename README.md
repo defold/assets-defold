@@ -15,12 +15,12 @@ The three variants:
 
 ### 2. Defold logo with "Defold" text (horizontal+vertical)
 
-![](/assets-defold/logo_with_text/logo-hor-classic-dark-160.png)
 ![](/assets-defold/logo_with_text/logo-ver-classic-dark-160.png)
+![](/assets-defold/logo_with_text/logo-hor-classic-dark-160.png)
 
 ### 3. Defold logo with "Made with Defold" text (horizontal+vertical)
 
-![](/assets-defold/made_with_defold/logo-hor-classic-dark-160.png)
 ![](/assets-defold/made_with_defold/logo-ver-classic-dark-160.png)
+![](/assets-defold/made_with_defold/logo-hor-classic-dark-160.png)
 
 
