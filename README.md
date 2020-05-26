@@ -1,6 +1,8 @@
 # assets-defold
 
-This project contains the Defold logos in various sizes, for use on splash screens or as other kinds of in-game promotions for the engine. The project also contains an example of a few ways the Defold logo could be used. The use of the Defold logo is subject to compliance with the [Defold Licence Terms](https://www.defold.com/terms-and-conditions).
+This project contains the Defold logos in various sizes. The "Made With Defold" logo can be used on splash screens or as other kinds of in-game promotions for the engine. The project also contains an example of a few ways the Defold logo could be used.
+
+Note that you are not allowed to use other versions of the logo without express permission from the Defold Foundation. [Read more about the Defold trademark here](https://defold.com/logo-and-trademark/).
 
 The project can be used as a project dependency. Add `https://github.com/defold/assets-defold/archive/master.zip` to your list of project dependencies in `game.project`.
 
