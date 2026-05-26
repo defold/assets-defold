@@ -24,8 +24,8 @@ local function fade(url, to, easing, duration, delay)
 end
 
 function init(self)
-	local DISPLAY_WIDTH = tonumber(sys.get_config("display.width"))
-	local DISPLAY_HEIGHT = tonumber(sys.get_config("display.height"))
+	local DISPLAY_WIDTH = sys.get_config_int("display.width")
+	local DISPLAY_HEIGHT = sys.get_config_int("display.height")
 	local LOGO_SIZE = go.get("#logo", "size")
 	local LW = vmath.vector3(LOGO_SIZE.x, 0, 0)
 	local LH = vmath.vector3(0, LOGO_SIZE.y, 0)
